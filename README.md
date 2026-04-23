@@ -1,4 +1,5 @@
-# 💰 Cashra
+<img width="1900" height="883" alt="image" src="https://github.com/user-attachments/assets/343622e2-a567-4483-b7df-1d7b7c266f98" />
+
 
 ### *Smart Petty Cash Management System*
 
