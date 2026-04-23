@@ -1,5 +1,7 @@
 <img width="1900" height="883" alt="image" src="https://github.com/user-attachments/assets/343622e2-a567-4483-b7df-1d7b7c266f98" />
 
+---
+
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-14-black?logo=next.js" />
   <img src="https://img.shields.io/badge/React-18-blue?logo=react" />
